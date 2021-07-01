@@ -1,6 +1,10 @@
 # Exercise 6: Fancy Hello World (dynamic)
 
-Add an event listener to the input element with the class `controls__input`. The event handler should update the text of the `h1` with the class `header__text` so it shows `Hello World ` plus the content you type in the input.
+Add an event listener to the input element with the class `controls__input`. 
+
+The event handler should update the text of the `h1` with the class `header__text` 
+
+so it shows `Hello World ` plus the content you type in the input.
 You can use 2 events for this:
 
 - `change` or,

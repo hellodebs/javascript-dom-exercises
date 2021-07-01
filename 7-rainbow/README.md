@@ -1,6 +1,8 @@
 # Exercise 7: Rainbow (iteration over multiple elements and changing inline styles)
 
-Add an event listener to the `button` with the class `shine-button`, so when it's get clicked (`click` event) the `li` with the class `list__item` change their style color to the color they have written in the text.
+Add an event listener to the `button` with the class `shine-button`, 
+
+so when it's get clicked (`click` event) the `li` with the class `list__item` change their style color to the color they have written in the text.
 
 ## Expected Result
 
